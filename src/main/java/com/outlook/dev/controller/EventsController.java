@@ -17,6 +17,9 @@ import com.outlook.dev.service.OutlookService;
 import com.outlook.dev.service.OutlookServiceBuilder;
 import com.outlook.dev.service.PagedResult;
 
+/**
+ * 
+ */
 @Controller
 public class EventsController {
 
