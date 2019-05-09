@@ -4,7 +4,7 @@
 2) Register an app in [Application Registration Portal](https://apps.dev.microsoft.com).
 3) You need an Office 365 or Outlook.com account
 
-(./readme-images/accounts_req.png)
+![The completed registration properties.](./readme-images/accounts_req.png)
 
 ## The app ##
 
